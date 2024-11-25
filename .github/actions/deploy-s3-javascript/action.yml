@@ -1,0 +1,5 @@
+name: 'First JavaScript custom action'
+description: 'Nananana'
+runs:
+  using: 'node16'
+  main: 'main.js'
